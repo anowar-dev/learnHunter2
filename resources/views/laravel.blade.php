@@ -1,0 +1,1 @@
+<h1>This laravel page</h1>
